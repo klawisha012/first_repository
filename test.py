@@ -1,3 +1,3 @@
-print('cho eto')
+print('hello world')
 
-print('hello suki')
+print('suck')
